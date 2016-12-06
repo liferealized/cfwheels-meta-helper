@@ -2,7 +2,7 @@
   component output="false" mixins="controller" {
 
     public function init() {
-      this.version = "1.4.5";
+      this.version = "1.4.5,2.0";
       return this;
     }
 
